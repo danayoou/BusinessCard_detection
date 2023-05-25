@@ -25,12 +25,11 @@ Note: This project was developed as part of the Image Processing course at Seoul
 
 ```[![이미지 텍스트](스크린샷 이미지)](유투브링크)```
 
-
 gif로 움짤 올리기
 
 ```[![이미지 텍스트](gif 이미지)]```
 
-<img src="https://user-images.githubusercontent.com/4470398/204947699-4feb33cd-ab75-41f6-bedd-10b22eb2e961.gif" width="400" height="280"/>
+<img src="https://github.com/danayoou/BusinessCard_detection/assets/123929240/0bb369c1-40e9-4213-b632-68a9f8385484" width="400" height="280"/>
 
 
 
