@@ -1,8 +1,20 @@
 # BusinessCard_detection
-This is the content I studied in the first semester of my third year at Seoul National University of Science and Technology in the Image Processing course.
+This repository contains the implementation of a corner detection-based approach for segmenting business card images and improving their quality. The goal of this project is to automate the process of extracting the business card region from an input image and enhancing its visual clarity.
 
-# Business Card Image Segmentation using Corner Detection and Quality Enhancement
-> This repository contains the implementation of a corner detection-based approach for segmenting business card images and improving their quality. The goal of this project is to automate the process of extracting the business card region from an input image and enhancing its visual clarity.
+__main subject__
+Business Card Image Segmentation using Corner Detection and Quality Enhancement
+
+__Key Features__
+1. Corner Detection: Utilizing corner detection algorithms, such as Harris corner detection or Shi-Tomasi corner detection, to identify key corners and points of interest on the business card.
+2. Segmentation: Using the detected corners as a basis, performing image segmentation techniques to isolate the business card region from the rest of the image.
+3. Quality Enhancement: Applying various image enhancement techniques, such as denoising, sharpening, and contrast adjustment, to improve the overall visual quality of the segmented business card.
+4. Output Generation: Generating the final segmented business card image with enhanced quality, ready for further processing or analysis.
+
+Note: This project was developed as part of the Image Processing course at Seoul National University of Science and Technology (Seoultech).
+
+
+
+
 
 
 
