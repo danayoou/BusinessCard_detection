@@ -1,8 +1,10 @@
-# Stock_prediction
-Bigdata Class
+# BusinessCard_detection
+This is the content I studied in the first semester of my third year at Seoul National University of Science and Technology in the Image Processing course.
 
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# Business Card Image Segmentation using Corner Detection and Quality Enhancement
+> This repository contains the implementation of a corner detection-based approach for segmenting business card images and improving their quality. The goal of this project is to automate the process of extracting the business card region from an input image and enhancing its visual clarity.
+
+
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
